@@ -1,0 +1,2 @@
+# Digital-Radar-System-Using-Arduino-and-C-Programming
+This is my 2019 project to fulfill the Electromagnetic course using Arduino and Ultrasonic HC-SR04. This system can be run after running from the Arduino application with the feature of detecting the presence of objects within a distance of 0.02 to 4.5 meters. The interface shown is a green indicator if an object is detected at once with a number indicating the distance and a red color if no object is detected.
